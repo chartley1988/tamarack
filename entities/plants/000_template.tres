@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://entities/plants/entity_plant.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+id = 0
+position = Vector2( 0, 0 )
+tile = Vector2( 0, 0 )
+plant_name = "Untitled Plant"
