@@ -27,13 +27,19 @@ _global_script_classes=[ {
 "base": "Resource",
 "class": "MapData",
 "language": "GDScript",
-"path": "res://scripts/autoloads/map_data.gd"
+"path": "res://data/map_data/map_data.gd"
+}, {
+"base": "Resource",
+"class": "Tile",
+"language": "GDScript",
+"path": "res://scripts/tile.gd"
 } ]
 _global_script_class_icons={
 "Entity": "",
 "EntityPlant": "",
 "Grid": "",
-"MapData": ""
+"MapData": "",
+"Tile": ""
 }
 
 [application]
